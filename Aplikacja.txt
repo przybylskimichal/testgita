@@ -3,3 +3,10 @@
         System.out.println("Podaj poprawne hasło");
         System.out.println("Kliknij na przycisk zaloguj");
     }
+
+
+   public void logowanieMicrosoft() {
+        System.out.println("Podaj email z domeny microsoft");
+        System.out.println("Podaj poprawne hasło");
+        System.out.println("Kliknij na przycisk zaloguj");
+    }
